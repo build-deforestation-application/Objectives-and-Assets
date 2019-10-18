@@ -55,7 +55,7 @@ _Please refer to this document:_
 
 - What design system will you use?
 
-  - Figma
+  - Figma / Whimsical
 
 - What will your user flow be?
 
@@ -95,6 +95,8 @@ _Please refer to this document:_
 
 - Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
 
+  - Predicting tree cover in the future
+
 - A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
   - json
 
@@ -104,9 +106,15 @@ _Please refer to this document:_
 
 - Who is your target audience? Be specific.
 
+  - People who care about the environment
+
 - What feedback have you gotten from potential users?
 
+  - Super good would use daily
+
 - Have you validated the problem and your solution with your target audience? How?
+
+- N/A
 
 ## Research
 
